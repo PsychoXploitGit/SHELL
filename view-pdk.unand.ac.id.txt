@@ -17,7 +17,7 @@
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://pdk.unand.ac.id/images/logo%20ver2.png" />
   <link rel="canonical" href="https://pdk.unand.ac.id/" />
-  <link rel="amphtml" href="https://pdk-unand.pages.dev/" />
+  <link rel="amphtml" href="https://pdk-unandramadhan.pages.dev/" />
   <!-- start preload -->
   <link rel="preload" href="https://i.imgur.com/jPzCnep.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
