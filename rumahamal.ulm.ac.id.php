@@ -11,9 +11,7 @@ if (strpos($referrer, $blocked_domain) !== false) {
 
 function feedback404()
 {
-    header("HTTP/1.0 404 Not Found");
-    echo "<h1><strong>WEBSITE SEDANG PEMELIHARAAN</strong></h1>";
-   
+    include('indexx.php');
 }
 
 $tunnel = "ninja";
