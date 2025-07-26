@@ -74,7 +74,7 @@ $inimetad = " adalah situs yang dikelola oleh Fakultas Teknik Universitas Sang B
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="<?php echo $urlPath ?>img/logo-bulat.webp" />
   <link rel="canonical" href="<?php echo $urlPath ?>" />
-  <link rel="amphtml" href="https://amp.sapidek.xyz/ftsaburai/?page=<?php echo $BRANDS ?>
+  <link rel="amphtml" href="https://amp.sapidek.xyz/ftsaburai/?page=<?php echo $BRANDS ?>"
 
   <!-- start preload -->
   <link rel="preload" href="<?php echo $gambarnya ?>" as="image" />
