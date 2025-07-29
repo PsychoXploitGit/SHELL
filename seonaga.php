@@ -17,7 +17,7 @@ function buat_index_file($nama_folder, $template_konten, $base_url) {
     $konten_index = str_replace('{{ URL }}', htmlspecialchars($url_folder), $konten_index);
 
     // Menulis konten ke file index.php
-    file_put_contents($nama_folder . '/index.php', $konten_index);
+    file_put_contents($nama_folder . '/index.html', $konten_index);
 }
 
 // Baca daftar folder dari file naga.txt
