@@ -5,7 +5,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 // Define base URL for the site
-$base_url = 'https://pmb.itsm.ac.id/run/'; // Ganti dengan URL situs utama Anda
+$base_url = 'https://lp3.ulm.ac.id/run/'; // Ganti dengan URL situs utama Anda
 
 // Fungsi untuk membuat file index.php berdasarkan template
 function buat_index_file($nama_folder, $template_konten, $base_url) {
